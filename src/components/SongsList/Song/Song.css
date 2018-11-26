@@ -1,0 +1,8 @@
+.song {
+    margin: 1em;
+}
+
+.song:hover {
+    background-color: aqua;
+    cursor: pointer;
+}
